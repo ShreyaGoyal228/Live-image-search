@@ -1,0 +1,14 @@
+.toolbar{
+    display:flex;
+    align-items: center;
+    justify-content: space-around;
+  }
+  .appbar{
+    background-color: rgb(242, 242, 242) !important;
+    height:9vh;
+  }
+  .text{
+    text-decoration: none;
+    color: rgb(234, 140, 97) !important;
+    font-weight: 600;
+  }

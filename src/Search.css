@@ -1,0 +1,31 @@
+.search{
+    background: #060606;
+    height:91vh;
+   width:100%; 
+   display:flex;
+   justify-content: center;
+}
+.middle{
+    width:50%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.field{
+    margin-top:30px !important;
+    width:40%;
+    margin-bottom: 30px !important;
+}
+.MuiOutlinedInput-notchedOutline {
+    border-color: #fff !important;
+  }
+  .MuiInputLabel-root
+  {
+    color: #fff !important;
+  }
+  .MuiInputBase-root{
+    color:#fff !important;
+  }
+  .icon{
+    color:#fff;
+  }
